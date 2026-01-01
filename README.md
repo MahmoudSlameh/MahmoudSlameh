@@ -23,7 +23,7 @@ I have strong expertise in **backend architecture**, **Laravel**, **Odoo (ERP)**
 
 ### **Senior / Full Stack Web Developer**  
 **InSoftOnline** — Germany (Remote)  
-*2020 – Present*
+*2020 – 2024*
 
 - Developed and maintained multiple web applications and internal systems
 - Designed and implemented REST APIs for mobile and web clients
@@ -95,9 +95,6 @@ I have strong expertise in **backend architecture**, **Laravel**, **Odoo (ERP)**
 ## 📫 Contact Me
 
 - 📧 Email: **mahmoudslameh95@gmail.com**
-- 🌐 Portfolio: https://nafezly.com/u/Mahmoud_Salameh/portfolio
-- 💼 GitHub: https://github.com/MahmoudSlameh
-
 ---
 
 ## ⚡ About Me
