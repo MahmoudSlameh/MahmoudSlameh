@@ -2,6 +2,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Software+Engineering" alt="Typing SVG" />
 </h1>
 
+###Senior Software Engineer with 5+ years of experience in building scalable web applications and APIs. 
+Specialized in Laravel, Odoo (ERP), and backend architecture. 
+Currently working at Nashra.
 <br>
 
 <div align="center">
