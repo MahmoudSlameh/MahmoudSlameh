@@ -1,1 +1,1 @@
-<img src="https://github.com/MahmoudSlameh/MahmoudSlameh/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Software+Engineering)](https://git.io/typing-svg)
